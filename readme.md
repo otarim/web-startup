@@ -12,7 +12,7 @@
 
 **开发**
 
-依赖 `live-server` 实现本地开发服务器功能，也可以用 `htt-server` 之类的替换
+依赖 `live-server` 实现本地开发服务器功能，也可以用 `http-server` 之类的替换
 
     npm run dev
 
